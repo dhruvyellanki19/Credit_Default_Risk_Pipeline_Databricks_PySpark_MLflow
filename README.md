@@ -1,4 +1,4 @@
-## 🔧 Environment Setup
+## Environment Setup
 
 - Developed on: [Databricks Community Edition](https://community.cloud.databricks.com/)
 - Runtime: Apache Spark (via PySpark)
